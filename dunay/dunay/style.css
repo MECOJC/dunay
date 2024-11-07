@@ -1,0 +1,23 @@
+body {
+
+background: rgb(0, 0, 0);
+color: rgb(0, 0, 0);
+font-family: "Playwrite GB S", cursive;
+
+}
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 0px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+section {
+    background: rgb(126, 202, 247);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div {
+    margin: right 5%;
+}
